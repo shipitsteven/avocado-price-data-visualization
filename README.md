@@ -2,7 +2,7 @@
 
 > This dataset is from Kaggle.com, the original source can be found [here](https://www.kaggle.com/neuromusic/avocado-prices).
 
-This repository is a demonstration of simple data visualization using `Python`, and some popular libraries such as `matplotlib`, `numpy`, and `seaborn`. 
+This repository is a demonstration of simple data visualization using `Python`, and some popular libraries such as `pandas`, `matplotlib`, `numpy`, and `seaborn`. 
 
 These files were part of the final project for the course CS110 - *Introduction of Computer Programming* @ North Seattle College. It was the very first programming class I took.
 
